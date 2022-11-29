@@ -1,0 +1,33 @@
+
+
+body{
+
+        background-image: url(https://img.freepik.com/photos-gratuite/table-bureau-tasse-cafe-clavier-bloc-notes_1220-4618.jpg?w=1380&t=st=1669403173~exp=1669403773~hmac=d0d3fd6b9e49afd0b6c2a274a3a3a27f91ef175881ff74da750f17808beef956);
+        text-align: center;
+        background-size: cover;
+    
+    }
+
+#logo_fixe { position : fixed; left : 2px; top : 2px; }
+.logo{   
+    width: 300px;
+
+} 
+
+.presentation{
+    text-align: center;
+    align:right;
+    font-family: 'Outfit', sans-serif;
+    font-size: 20px;
+    
+}
+
+.menu{
+    text-align: right;
+    font-family: 'Outfil', sans-serif;
+    width: 50%;
+    font-size: 15px;
+    color: black;
+    margin: 2%;
+   
+}
